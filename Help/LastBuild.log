@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.2.18.0" projectFile="E:\huadez\code\QI.WxSdk\SHBP.shfbproj" started="2024/3/18 13:43:32">
+<buildStep step="Initializing">
+The Sandcastle tools are located in &#39;D:\EWSoftware\Sandcastle Help File Builder&#39;
+Locating components in the following folder(s):
+    E:\huadez\code\QI.WxSdk
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins
+    D:\EWSoftware\Sandcastle Help File Builder\Components
+Using framework reflection data for &#39;.NET Core/.NET Standard/.NET 5.0+&#39; located in &#39;D:\EWSoftware\Sandcastle Help File Builder\Data\.NET&#39;
+Using presentation style &#39;VS2013&#39; located in &#39;D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013&#39;
+Found HTML Help 1 compiler in &#39;D:\HTML Help Workshop\&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2024.2.18.0
+Copyright &#169; 2006-2024, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: E:\huadez\code\QI.WxSdk\QI.Wxsdk\QI.Wx.Sdk.csproj
+    Found project &#39;E:\huadez\code\QI.WxSdk\QI.Wxsdk\QI.Wx.Sdk.csproj&#39;
+
+Parsing project files
+    Found assembly &#39;E:\huadez\code\QI.WxSdk\QI.Wxsdk\bin\Debug\net6.0\QI.Wx.Sdk.dll&#39; (.NETCoreApp 6.0)
+
+References to include:
+    Flurl
+    Flurl.Http
+    Microsoft.AspNetCore.Http.Abstractions
+    Microsoft.AspNetCore.Http.Features
+    Microsoft.AspNetCore.WebUtilities
+    Microsoft.CSharp
+    Microsoft.Extensions.Caching.Abstractions
+    Microsoft.Extensions.Caching.Memory
+    Microsoft.Extensions.Configuration
+    Microsoft.Extensions.Configuration.Abstractions
+    Microsoft.Extensions.Configuration.Binder
+    Microsoft.Extensions.DependencyInjection
+    Microsoft.Extensions.DependencyInjection.Abstractions
+    Microsoft.Extensions.Http
+    Microsoft.Extensions.Logging
+    Microsoft.Extensions.Logging.Abstractions
+    Microsoft.Extensions.Options
+    Microsoft.Extensions.Options.ConfigurationExtensions
+    Microsoft.Extensions.Primitives
+    Microsoft.Net.Http.Headers
+    Microsoft.VisualBasic
+    Microsoft.VisualBasic.Core
+    Microsoft.Win32.Primitives
+    Microsoft.Win32.Registry
+    mscorlib
+    netstandard
+    Newtonsoft.Json
+    System
+    System.AppContext
+    System.Buffers
+    System.Collections
+    System.Collections.Concurrent
+    System.Collections.Immutable
+    System.Collections.NonGeneric
+    System.Collections.Specialized
+    System.ComponentModel
+    System.ComponentModel.Annotations
+    System.ComponentModel.DataAnnotations
+    System.ComponentModel.EventBasedAsync
+    System.ComponentModel.Primitives
+    System.ComponentModel.TypeConverter
+    System.Configuration
+    System.Console
+    System.Core
+    System.Data
+    System.Data.Common
+    System.Data.DataSetExtensions
+    System.Diagnostics.Contracts
+    System.Diagnostics.Debug
+    System.Diagnostics.DiagnosticSource
+    System.Diagnostics.FileVersionInfo
+    System.Diagnostics.Process
+    System.Diagnostics.StackTrace
+    System.Diagnostics.TextWriterTraceListener
+    System.Diagnostics.Tools
+    System.Diagnostics.TraceSource
+    System.Diagnostics.Tracing
+    System.Drawing
+    System.Drawing.Primitives
+    System.Dynamic.Runtime
+    System.Formats.Asn1
+    System.Globalization
+    System.Globalization.Calendars
+    System.Globalization.Extensions
+    System.IO
+    System.IO.Compression
+    System.IO.Compression.Brotli
+    System.IO.Compression.FileSystem
+    System.IO.Compression.ZipFile
+    System.IO.FileSystem
+    System.IO.FileSystem.AccessControl
+    System.IO.FileSystem.DriveInfo
+    System.IO.FileSystem.Primitives
+    System.IO.FileSystem.Watcher
+    System.IO.IsolatedStorage
+    System.IO.MemoryMappedFiles
+    System.IO.Pipes
+    System.IO.Pipes.AccessControl
+    System.IO.UnmanagedMemoryStream
+    System.Linq
+    System.Linq.Expressions
+    System.Linq.Parallel
+    System.Linq.Queryable
+    System.Memory
+    System.Net
+    System.Net.Http
+    System.Net.Http.Json
+    System.Net.HttpListener
+    System.Net.Mail
+    System.Net.NameResolution
+    System.Net.NetworkInformation
+    System.Net.Ping
+    System.Net.Primitives
+    System.Net.Requests
+    System.Net.Security
+    System.Net.ServicePoint
+    System.Net.Sockets
+    System.Net.WebClient
+    System.Net.WebHeaderCollection
+    System.Net.WebProxy
+    System.Net.WebSockets
+    System.Net.WebSockets.Client
+    System.Numerics
+    System.Numerics.Vectors
+    System.ObjectModel
+    System.Reflection
+    System.Reflection.DispatchProxy
+    System.Reflection.Emit
+    System.Reflection.Emit.ILGeneration
+    System.Reflection.Emit.Lightweight
+    System.Reflection.Extensions
+    System.Reflection.Metadata
+    System.Reflection.Primitives
+    System.Reflection.TypeExtensions
+    System.Resources.Reader
+    System.Resources.ResourceManager
+    System.Resources.Writer
+    System.Runtime
+    System.Runtime.CompilerServices.Unsafe
+    System.Runtime.CompilerServices.VisualC
+    System.Runtime.Extensions
+    System.Runtime.Handles
+    System.Runtime.InteropServices
+    System.Runtime.InteropServices.RuntimeInformation
+    System.Runtime.Intrinsics
+    System.Runtime.Loader
+    System.Runtime.Numerics
+    System.Runtime.Serialization
+    System.Runtime.Serialization.Formatters
+    System.Runtime.Serialization.Json
+    System.Runtime.Serialization.Primitives
+    System.Runtime.Serialization.Xml
+    System.Security
+    System.Security.AccessControl
+    System.Security.Claims
+    System.Security.Cryptography.Algorithms
+    System.Security.Cryptography.Cng
+    System.Security.Cryptography.Csp
+    System.Security.Cryptography.Encoding
+    System.Security.Cryptography.OpenSsl
+    System.Security.Cryptography.Primitives
+    System.Security.Cryptography.X509Certificates
+    System.Security.Principal
+    System.Security.Principal.Windows
+    System.Security.SecureString
+    System.ServiceModel.Web
+    System.ServiceProcess
+    System.Text.Encoding
+    System.Text.Encoding.CodePages
+    System.Text.Encoding.Extensions
+    System.Text.Encodings.Web
+    System.Text.Json
+    System.Text.RegularExpressions
+    System.Threading
+    System.Threading.Channels
+    System.Threading.Overlapped
+    System.Threading.Tasks
+    System.Threading.Tasks.Dataflow
+    System.Threading.Tasks.Extensions
+    System.Threading.Tasks.Parallel
+    System.Threading.Thread
+    System.Threading.ThreadPool
+    System.Threading.Timer
+    System.Transactions
+    System.Transactions.Local
+    System.ValueTuple
+    System.Web
+    System.Web.HttpUtility
+    System.Windows
+    System.Xml
+    System.Xml.Linq
+    System.Xml.ReaderWriter
+    System.Xml.Serialization
+    System.Xml.XDocument
+    System.Xml.XmlDocument
+    System.Xml.XmlSerializer
+    System.Xml.XPath
+    System.Xml.XPath.XDocument
+    WebApiClientCore
+    WebApiClientCore.Abstractions
+    WebApiClientCore.Extensions.NewtonsoftJson
+    WebApiClientCore.Extensions.OAuths
+    WindowsBase
+
+Copying XML comments files
+    E:\huadez\code\QI.WxSdk\QI.Wxsdk\obj\Debug\net6.0\QI.Wx.Sdk.xml -&gt; E:\huadez\code\QI.WxSdk\Help\Working\QI.Wx.Sdk.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (zh-CN, 中文(简体，中国))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.0010
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0020
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-0bfc39cd-57fe-4407-918d-b9a2d852dcb7.proj]
+生成启动时间为 2024/3/18 13:43:33。
+
+节点 1 上的项目“E:\huadez\code\QI.WxSdk\Help\Working\GenerateRefInfo-0bfc39cd-57fe-4407-918d-b9a2d852dcb7.proj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“obj\Debug\”。
+GenerateRefInfo:
+  Microsoft.Build (v17.8.5+b5265ef370a651f8c3458110b804e5cbf869eeb5)
+  ? Microsoft Corporation. All rights reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 187 dependency assemblies.
+  Wrote information on 25 namespaces, 311 types, and 1172 members
+  Merging duplicate type and member information
+  Merged 0 duplicate type(s) and 0 duplicate member(s)
+已完成生成项目“E:\huadez\code\QI.WxSdk\Help\Working\GenerateRefInfo-0bfc39cd-57fe-4407-918d-b9a2d852dcb7.proj”(默认目标)的操作。
+    Last step completed in 00:00:01.2763
+</buildStep>
+<buildStep step="ApplyDocumentModel">
+Applying document model to reflection output...
+    Last step completed in 00:00:00.1573
+</buildStep>
+<buildStep step="AddApiTopicFilenames">
+Adding topic filenames to API members...
+    Last step completed in 00:00:00.0815
+</buildStep>
+<buildStep step="GenerateApiTopicManifest">
+Generating API topic manifest...
+    Last step completed in 00:00:00.0448
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.6628
+</buildStep>
+<buildStep step="GenerateInheritedDocumentation">
+Generating inherited documentation...
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateInheritedDocs.proj]
+
+    Last step completed in 00:00:02.0792
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file for API content...
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.0942
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    Last step completed in 00:00:00.5202
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0030
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+E:\huadez\code\QI.WxSdk\Help\Working\BuildAssembler.config
+  Updating reference topic configurations.
+  No conceptual content.  Removing conceptual content components.
+    Last step completed in 00:00:00.0062
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+Loading configuration...
+Processing topics...
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.AddWxSdkAll(Microsoft.Extensions.DependencyInjection.IServiceCollection)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.AddWxSdkAll(Microsoft.Extensions.DependencyInjection.IServiceCollection)] Missing &lt;param name=&quot;services&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.AddWxSdkApiAndServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.AddWxSdkApiAndServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)] Missing &lt;param name=&quot;services&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.AddWxSdkTokenManager(Microsoft.Extensions.DependencyInjection.IServiceCollection)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.AddWxSdkTokenManager(Microsoft.Extensions.DependencyInjection.IServiceCollection)] Missing &lt;param name=&quot;services&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.ToBase64(System.Byte[])] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Extentions.ToBase64(System.Byte[])] Missing &lt;param name=&quot;bytes&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.ClearAccessTokenAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetAccessTokenAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetCacheAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetCacheAsync(System.String)] Missing &lt;param name=&quot;cacheKey&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetCurApp] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetCurAppId] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetNewAccessTokenAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetService``1] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetService``1] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.GetWxConfig] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.RemoveCacheAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.RemoveCacheAsync(System.String)] Missing &lt;param name=&quot;cacheKey&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetAccessTokenAsync(System.String,System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;param name=&quot;cacheKey&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;param name=&quot;cacheSeconds&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetCurApp(QI.Wx.Sdk.WxAppSetting)] Missing &lt;param name=&quot;wxApp&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.ITokenManager.SetCurApp(System.String)] Missing &lt;param name=&quot;appId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.#ctor(QI.Wx.Sdk.WxConfig,System.IServiceProvider)] Missing &lt;param name=&quot;wxConfig&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.#ctor(QI.Wx.Sdk.WxConfig,System.IServiceProvider)] Missing &lt;param name=&quot;serviceProvider&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.ClearAccessTokenAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GenerateCacheKey(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GenerateCacheKey(System.String)] Missing &lt;param name=&quot;appId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetAccessTokenAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetAccessTokenFromCacheAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetCacheAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetCacheAsync(System.String)] Missing &lt;param name=&quot;cacheKey&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetCurApp] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetCurAppId] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetNewAccessTokenAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetService``1] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetService``1] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.GetWxConfig] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.RemoveCacheAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.RemoveCacheAsync(System.String)] Missing &lt;param name=&quot;cacheKey&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetAccessTokenAsync(System.String,System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetAccessTokenToCacheAsync(System.String,System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetAccessTokenToCacheAsync(System.String,System.Int32)] Missing &lt;param name=&quot;accessToken&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetAccessTokenToCacheAsync(System.String,System.Int32)] Missing &lt;param name=&quot;expiresSeconds&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;param name=&quot;cacheKey&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetCacheAsync(System.String,System.String,System.Int32)] Missing &lt;param name=&quot;cacheSeconds&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetCurApp(QI.Wx.Sdk.WxAppSetting)] Missing &lt;param name=&quot;wxApp&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.TokenManager.SetCurApp(System.String)] Missing &lt;param name=&quot;appId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.WxConfig.#ctor(Microsoft.Extensions.Configuration.IConfiguration)] Missing &lt;param name=&quot;configuration&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.WxConfig.GetWxAppSetting(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.WxConfig.GetWxAppSetting(System.String)] Missing &lt;param name=&quot;appId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.WxConfig.LoadAllFromConfiguration(Microsoft.Extensions.Configuration.IConfiguration)] Missing &lt;param name=&quot;configuration&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.Core] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.AllowMultiple&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.Enable&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.OrderIndex&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;M:WebApiClientCore.Attributes.ApiFilterAttribute.OnRequestAsync(WebApiClientCore.ApiRequestContext)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;M:WebApiClientCore.Attributes.ApiFilterAttribute.OnResponseAsync(WebApiClientCore.ApiResponseContext)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;M:WebApiClientCore.Attributes.ApiFilterAttribute.OnRequestAsync(WebApiClientCore.ApiRequestContext)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;M:WebApiClientCore.Attributes.ApiFilterAttribute.OnResponseAsync(WebApiClientCore.ApiResponseContext)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.AllowMultiple&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.Enable&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.OrderIndex&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.Core.AccessTokenApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnRequestAsync(WebApiClientCore.ApiRequestContext)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnRequestAsync(WebApiClientCore.ApiRequestContext)] Missing &lt;param name=&quot;context&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnRequestAsync(WebApiClientCore.ApiRequestContext)] Unknown reference link target &#39;T:WebApiClientCore.ApiRequestContext&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnRequestAsync(WebApiClientCore.ApiRequestContext)] Unknown reference link target &#39;M:WebApiClientCore.IApiFilter.OnRequestAsync(WebApiClientCore.ApiRequestContext)&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Missing &lt;param name=&quot;context&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Unknown reference link target &#39;T:WebApiClientCore.ApiResponseContext&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.Core.AccessTokenApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Unknown reference link target &#39;M:WebApiClientCore.IApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.#ctor(QI.Wx.Sdk.ITokenManager)] Missing &lt;param name=&quot;tokenManager&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.GetCurApp] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.GetCurAppId] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.GetService``1] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.GetService``1] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.SetCurApp(QI.Wx.Sdk.WxAppSetting)] Missing &lt;param name=&quot;wxApp&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxApiServiceBase.SetCurApp(System.String)] Missing &lt;param name=&quot;appId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxException.#ctor(System.String)] Missing &lt;param name=&quot;message&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxException.#ctor(System.String,System.Exception)] Missing &lt;param name=&quot;message&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Core.WxException.#ctor(System.String,System.Exception)] Missing &lt;param name=&quot;innerException&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.GenericApi] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.GenericApi.IWxTokenApi.GetAsync(System.String,System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.GenericApi.IWxUniformMessageApi.SendAsync(QI.Wx.Sdk.GenericApi.Dtos.UniformMessageInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.GenericApi.IWxUniformMessageApi.SendAsync(QI.Wx.Sdk.GenericApi.Dtos.UniformMessageInput)] Missing &lt;param name=&quot;messageInput&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.GenericApi.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.Helper] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.DateTimeHelper.ConvertToDateTime(System.Int64)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.DateTimeHelper.ConvertToDateTime(System.Int64)] Missing &lt;param name=&quot;timestamp&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.DateTimeHelper.ConvertToTimeStamp(System.DateTime)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.DateTimeHelper.ConvertToTimeStamp(System.DateTime)] Missing &lt;param name=&quot;time&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSha1(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSha1(System.String)] Missing &lt;param name=&quot;str&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSignature(System.String,System.String,System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSignature(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;ticket&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSignature(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;noncestr&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSignature(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;timestamp&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetSignature(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;url&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.GetTimestamp] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.MD5(System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.MD5(System.String,System.String)] Missing &lt;param name=&quot;encypStr&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.WxHelper.MD5(System.String,System.String)] Missing &lt;param name=&quot;charset&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.DeserializeObject``1(System.IO.Stream)] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.DeserializeObject``1(System.IO.Stream)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.DeserializeObject``1(System.IO.Stream)] Missing &lt;param name=&quot;stream&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.DeserializeObject``1(System.String)] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.DeserializeObject``1(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.DeserializeObject``1(System.String)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.SerializeObject``1(``0)] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.SerializeObject``1(``0)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.SerializeObject``1(``0)] Missing &lt;param name=&quot;obj&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.SerializeObjectWithoutNamespace``1(``0)] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.SerializeObjectWithoutNamespace``1(``0)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.Helper.XmlHelper.SerializeObjectWithoutNamespace``1(``0)] Missing &lt;param name=&quot;obj&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.MiniProgram] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.WxMpApiService.#ctor(QI.Wx.Sdk.ITokenManager)] Missing &lt;param name=&quot;tokenManager&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.WxMpApiService.GetCode2SessionAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.MiniProgram.Apis] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpAuthUserApi.GetCode2SessionAsync(System.String,System.String,System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpAuthUserApi.GetCode2SessionAsync(System.String,System.String,System.String,System.String)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpAuthUserApi.GetUserPhonenumberAsync(QI.Wx.Sdk.MiniProgram.Apis.AuthUser.Dtos.GetUserPhonenumberInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpAuthUserApi.GetUserPhonenumberAsync(QI.Wx.Sdk.MiniProgram.Apis.AuthUser.Dtos.GetUserPhonenumberInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpMessageApi.SendSubscribeMessageAsync(QI.Wx.Sdk.MiniProgram.Dtos.SubscribeMessageSendInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpMessageApi.SendSubscribeMessageAsync(QI.Wx.Sdk.MiniProgram.Dtos.SubscribeMessageSendInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpMessageApi.SendUniformMessageAsync(QI.Wx.Sdk.MiniProgram.Dtos.UniformMessageSendInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpMessageApi.SendUniformMessageAsync(QI.Wx.Sdk.MiniProgram.Dtos.UniformMessageSendInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpMessageApi.SendUniformMessageAsync(QI.Wx.Sdk.MiniProgram.Dtos.UniformMessageSendInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.CreateQRCodeAsync(QI.Wx.Sdk.MiniProgram.Dtos.CreateQRCodeInput)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.CreateQRCodeAsync(QI.Wx.Sdk.MiniProgram.Dtos.CreateQRCodeInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.CreateQRCodeAsync(QI.Wx.Sdk.MiniProgram.Dtos.CreateQRCodeInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.CreateQRCodeAsync(QI.Wx.Sdk.MiniProgram.Dtos.CreateQRCodeInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.GetWxaCodeAsync(QI.Wx.Sdk.MiniProgram.Dtos.GetWxaCodeInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.GetWxaCodeAsync(QI.Wx.Sdk.MiniProgram.Dtos.GetWxaCodeInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.GetWxaCodeUnlimitedAsync(QI.Wx.Sdk.MiniProgram.Dtos.GetWxaCodeUnlimitedInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.GetWxaCodeUnlimitedAsync(QI.Wx.Sdk.MiniProgram.Dtos.GetWxaCodeUnlimitedInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpQRCodeApi.GetWxaCodeUnlimitedAsync(QI.Wx.Sdk.MiniProgram.Dtos.GetWxaCodeUnlimitedInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpUrllinkApi.GenerateUrllinkAsync(QI.Wx.Sdk.MiniProgram.Dtos.GenerateUrlLinkInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.IWxMpUrllinkApi.GenerateUrllinkAsync(QI.Wx.Sdk.MiniProgram.Dtos.GenerateUrlLinkInput)] Unknown reference link target &#39;T:WebApiClientCore.ITask`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.MiniProgram.Apis.AuthUser.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.AuthUser.Dtos.GetUserPhonenumberInput.#ctor(System.String)] Missing &lt;param name=&quot;code&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.MiniProgram.Apis.QRCode] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.AllowMultiple&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.Enable&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.OrderIndex&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.AllowMultiple&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.Enable&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;P:WebApiClientCore.Attributes.ApiFilterAttribute.OrderIndex&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter] Unknown reference link target &#39;T:WebApiClientCore.Attributes.ApiFilterAttribute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Missing &lt;param name=&quot;context&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Unknown reference link target &#39;T:WebApiClientCore.ApiResponseContext&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.MiniProgram.Apis.QRCode.QRCodeApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)] Unknown reference link target &#39;M:WebApiClientCore.IApiFilter.OnResponseAsync(WebApiClientCore.ApiResponseContext)&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.MiniProgram.Apis.QRCode.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.MiniProgram.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.MiniProgram.Dtos.GenerateUrlLinkInput.Query] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.MiniProgram.Dtos.TemplateMessageDataItem.#ctor(System.String)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.WxPaApiService.#ctor(QI.Wx.Sdk.ITokenManager)] Missing &lt;param name=&quot;tokenManager&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.WxPaApiService.GetJSSDKConfigAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.AuthAsync(System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.AuthAsync(System.String,System.String)] Missing &lt;param name=&quot;openid&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.GetOAuthAccessTokenAsync(System.String,System.String,System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.GetOAuthAccessTokenAsync(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;secret&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.GetOAuthAccessTokenAsync(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;code&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.GetUserInfoAsync(System.String,System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.GetUserInfoAsync(System.String,System.String,System.String)] Missing &lt;param name=&quot;openid&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.OAuthRefreshTokenAsync(System.String,System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.OAuthRefreshTokenAsync(System.String,System.String,System.String)] Missing &lt;param name=&quot;appId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.OAuthRefreshTokenAsync(System.String,System.String,System.String)] Missing &lt;param name=&quot;refresh_token&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaAuthUserApi.OAuthRefreshTokenAsync(System.String,System.String,System.String)] Missing &lt;param name=&quot;grant_type&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuide2GuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuide2GuideGroupInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuide2GuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuide2GuideGroupInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideAcctInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideAcctInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideBuyerDisplayTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerDisplayTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideBuyerDisplayTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerDisplayTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerRelationInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerRelationInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideBuyerTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideBuyerTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideMasssendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideMasssendJobInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideMasssendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideMasssendJobInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideTagOptionAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideTagOptionInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.AddGuideTagOptionAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideTagOptionInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.CancelGuideMassendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.CancelGuideMassendJobInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.CancelGuideMassendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.CancelGuideMassendJobInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuide2GuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuide2GuideGroupInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuide2GuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuide2GuideGroupInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideAcctApiInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideAcctApiInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerRelationInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerRelationInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideBuyerTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideBuyerTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideCardMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideCardMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideCardMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideCardMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideGroupInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideGroupInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideImageMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideImageMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideImageMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideImageMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideTagOptionAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideTagOptionInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideTagOptionAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideTagOptionInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideWordMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideWordMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.DelGuideWordMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideWordMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGroupByGuideAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupByGuideInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGroupByGuideAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupByGuideInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGroupInfoAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupInfoInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGroupInfoAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupInfoInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideAcctConfigAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideAcctListAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideAcctListAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerChatRecordAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerChatRecordInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerChatRecordAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerChatRecordInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerDisplayTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerDisplayTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerDisplayTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerDisplayTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerRelationByBuyerAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationByBuyerInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerRelationByBuyerAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationByBuyerInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerRelationListAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerRelationListAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideBuyerTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideCardMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideCardMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideCardMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideCardMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideConfigAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideConfigInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideConfigAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideConfigInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideGroupListAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideImageMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideImageMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideImageMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideImageMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideMassendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideMassendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideMassendJobListAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideMassendJobListAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideTagOptionAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideWordMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideWordMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GetGuideWordMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideWordMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GuideCreateQrCodeAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideCreateQrCodeInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.GuideCreateQrCodeAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideCreateQrCodeInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.NewGuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideGroupInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.NewGuideGroupAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideGroupInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.NewGuideTagOptionAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideTagOptionInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.NewGuideTagOptionAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideTagOptionInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.PushShowWxaPathMenuAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.PushShowWxaPathMenuInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.PushShowWxaPathMenuAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.PushShowWxaPathMenuInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.QueryGuideBuyerByTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.QueryGuideBuyerByTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.QueryGuideBuyerByTagAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.QueryGuideBuyerByTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.RebindGuideAcctForBuyerAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.RebindGuideAcctForBuyerInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.RebindGuideAcctForBuyerAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.RebindGuideAcctForBuyerInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideAcctConfigAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideAcctConfigInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideAcctConfigAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideAcctConfigInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideCardMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideCardMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideCardMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideCardMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideConfigAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideConfigInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideConfigAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideConfigInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideImageMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideImageMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideImageMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideImageMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideWordMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideWordMaterialInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.SetGuideWordMaterialAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideWordMaterialInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.UpdateGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideAcctInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.UpdateGuideAcctAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideAcctInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.UpdateGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideBuyerRelationInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.UpdateGuideBuyerRelationAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideBuyerRelationInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.UpdateGuideMasssendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideMasssendJobInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaGuideApi.UpdateGuideMasssendJobAsync(QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideMasssendJobInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.AddAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.AddOrUpdateKfAccountInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.AddAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.AddOrUpdateKfAccountInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.DelAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.DelKfAccountInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.DelAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.DelKfAccountInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.GetKFListAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.GetOnlineKFListAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.InviteWorkerAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.InviteWorkerInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.InviteWorkerAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.InviteWorkerInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.UpdateAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.AddOrUpdateKfAccountInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.UpdateAsync(QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.AddOrUpdateKfAccountInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.UploadHeadimg(System.String,WebApiClientCore.Parameters.FormDataFile)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaKfAccountApi.UploadHeadimg(System.String,WebApiClientCore.Parameters.FormDataFile)] Unknown reference link target &#39;T:WebApiClientCore.Parameters.FormDataFile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadAsync(System.String,WebApiClientCore.Parameters.FormDataFile)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadAsync(System.String,WebApiClientCore.Parameters.FormDataFile)] Missing &lt;param name=&quot;media&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadAsync(System.String,WebApiClientCore.Parameters.FormDataFile)] Unknown reference link target &#39;T:WebApiClientCore.Parameters.FormDataFile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadImageAsync(WebApiClientCore.Parameters.FormDataFile)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadImageAsync(WebApiClientCore.Parameters.FormDataFile)] Missing &lt;param name=&quot;media&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadImageAsync(WebApiClientCore.Parameters.FormDataFile)] Unknown reference link target &#39;T:WebApiClientCore.Parameters.FormDataFile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadNewsAsync(QI.Wx.Sdk.PublicAccount.Apis.Media.UploadNewsInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadNewsAsync(QI.Wx.Sdk.PublicAccount.Apis.Media.UploadNewsInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadVideoAsync(QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMediaApi.UploadVideoAsync(QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.AddConditionalAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.AddConditionalInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.AddConditionalAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.AddConditionalInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.CreateMenuInput)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.CreateMenuInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.CreateMenuInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.DelConditionalAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.DelConditionalInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.DelConditionalAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.DelConditionalInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.DeleteAsync] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.DeleteAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.GetAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.TryMatchAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.TryMatchInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMenuApi.TryMatchAsync(QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.TryMatchInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageMassApi.DeleteAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.DeleteInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageMassApi.DeleteAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.DeleteInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageMassApi.SendAllAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SendAllInputBase)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageMassApi.SendAllAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SendAllInputBase)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageMassApi.SendAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SendInputBase)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageMassApi.SendAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SendInputBase)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.DelPrivateTemplateAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.DelPrivateTemplateInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.DelPrivateTemplateAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.DelPrivateTemplateInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.GetAllPrivateTemplateAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.GetIndustryAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.GetTemplateIdAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.GetTemplateIdInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.GetTemplateIdAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.GetTemplateIdInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.SendAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SendTemplateMessageInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.SendAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SendTemplateMessageInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.SetIndustryAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SetIndustryInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaMessageTemplateApi.SetIndustryAsync(QI.Wx.Sdk.PublicAccount.Apis.Message.SetIndustryInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaQrcodeApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.Qrcode.QrcodeInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaQrcodeApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.Qrcode.QrcodeInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.AddTemplateAsync(QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.AddTemplateInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.AddTemplateAsync(QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.AddTemplateInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.DeleteTemplateAsync(QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.DeleteTemplateInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.DeleteTemplateAsync(QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.DeleteTemplateInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.GetCategoryAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.GetPubTemplateKeyWordsByIdAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.GetPubTemplateKeyWordsByIdAsync(System.String)] Missing &lt;param name=&quot;tid&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.GetPubTemplateTitleListAsync(System.String,System.Int32,System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.GetTemplateListAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.SendAsync(QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.BizSendInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaSubscribeApi.SendAsync(QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.BizSendInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchBlackListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchBlackListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchBlackListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchBlackListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchTaggingAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchTaggingInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchTaggingAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchTaggingInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchUnBlackListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchUnBlackListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchUnBlackListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchUnBlackListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchUnTaggingAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchUnTaggingInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.BatchUnTaggingAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchUnTaggingInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.CreateAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.DeleteAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.DeleteTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.DeleteAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.DeleteTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.GetAsync] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.GetBlackListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.GetBlackListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.GetIdListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetIdListInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.GetIdListAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetIdListInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.UpdateAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTagsApi.UpdateAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaTicketApi.GetAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.GetAsync(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.GetUserByTagAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserByTagInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.GetUserByTagAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserByTagInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.InfoAsync(System.String,System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.InfoAsync(System.String,System.String)] Missing &lt;param name=&quot;openId&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.InfoAsync(System.String,System.String)] Missing &lt;param name=&quot;lang&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.UpdateRemarkAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateRemarkInput)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.IWxPaUserManagerApi.UpdateRemarkAsync(QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateRemarkInput)] Missing &lt;param name=&quot;input&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.AuthUser.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuide2GuideGroupInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideAcctInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerDisplayTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerRelationInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerRelationResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerTagBuyerRespInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideBuyerTagResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideMasssendJobInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideMasssendJobResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.AddGuideTagOptionInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.BlackKeywordInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.BuyerInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.BuyerRespInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.CancelGuideMassendJobInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelBuyerRespInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuide2GuideGroupInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideAcctApiInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerRelationInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerRelationResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerTagBuyerRespInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideBuyerTagResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideCardMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideGroupInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideImageMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideTagOptionInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.DelGuideWordMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupByGuideInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupByGuideResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupInfoInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGroupInfoResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctConfigResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideAcctListResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerChatRecordInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerChatRecordResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerDisplayTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerDisplayTagResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationByBuyerInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationByBuyerResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationListResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerRelationResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideBuyerTagResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideCardMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideCardMaterialResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideConfigInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideConfigResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideGroupListResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideImageMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideImageMaterialResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobListResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideMassendJobResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideTagOptionResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideWordMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GetGuideWordMaterialResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GroupInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideAcctInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideAutoReplyInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideAutoReplyPlusInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideBuyerRelationInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideCardMaterialInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideCreateQrCodeInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideCreateQrCodeResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideFastReplyInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideImageMaterialModelInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideMassendJobListBuyerInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideMassendJobListInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideMassendJobListMaterialInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideMasssendJobMaterialInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.GuideWordMaterialWordInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.MsgInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideGroupInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideGroupResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.NewGuideTagOptionInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.OptionsInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.PushShowWxaPathMenuInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.QueryGuideBuyerByTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.QueryGuideBuyerByTagResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.RebindGuideAcctForBuyerInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.RebindGuideAcctForBuyerResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideAcctConfigInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideCardMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideConfigInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideImageMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.SetGuideWordMaterialInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.TaskResultInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideAcctInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideBuyerRelationInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Guide.Dtos.UpdateGuideMasssendJobInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.AddOrUpdateKfAccountInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.DelKfAccountInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.DelKfAccountInput.Account] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.GetOnlineKFListResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.GetOnlineKFListResult.list] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.KfAccount.Dtos.InviteWorkerInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Media] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadImageApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadNewsInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadNewsInput.Article] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoApiResult.created_at] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoApiResult.media_id] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoApiResult.type] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoInput.description] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoInput.media_id] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Media.UploadVideoInput.title] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Menu] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.AddConditionalApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.AddConditionalApiResult.MenuId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.AddConditionalInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.ConditionalMenuInfo.Button] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.ConditionalMenuInfo.MatchRule] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.CreateMenuInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.CreateMenuInput.Button] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.GetConditionalMenuInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.GetMenuApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.GetMenuInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonBase.Key] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonBase.MediaId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonBase.NewsInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonBase.SubButton] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonBase.Url] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonBase.Value] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;P:Newtonsoft.Json.JsonConverter.CanRead&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;P:Newtonsoft.Json.Converters.CustomCreationConverter`1.CanWrite&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.CanConvert(System.Type)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.Create(System.Type)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.ReadJson(Newtonsoft.Json.JsonReader,System.Type,System.Object,Newtonsoft.Json.JsonSerializer)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.WriteJson(Newtonsoft.Json.JsonWriter,System.Object,Newtonsoft.Json.JsonSerializer)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.CanConvert(System.Type)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.Create(System.Type)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.ReadJson(Newtonsoft.Json.JsonReader,System.Type,System.Object,Newtonsoft.Json.JsonSerializer)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;M:Newtonsoft.Json.Converters.CustomCreationConverter`1.WriteJson(Newtonsoft.Json.JsonWriter,System.Object,Newtonsoft.Json.JsonSerializer)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;P:Newtonsoft.Json.JsonConverter.CanRead&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;P:Newtonsoft.Json.Converters.CustomCreationConverter`1.CanWrite&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.JsonConverter&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter] Unknown reference link target &#39;T:Newtonsoft.Json.Converters.CustomCreationConverter`1&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter.ReadJson(Newtonsoft.Json.JsonReader,System.Type,System.Object,Newtonsoft.Json.JsonSerializer)] Missing &lt;param name=&quot;existingValue&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter.ReadJson(Newtonsoft.Json.JsonReader,System.Type,System.Object,Newtonsoft.Json.JsonSerializer)] Missing &lt;param name=&quot;serializer&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter.ReadJson(Newtonsoft.Json.JsonReader,System.Type,System.Object,Newtonsoft.Json.JsonSerializer)] Unknown reference link target &#39;T:Newtonsoft.Json.JsonReader&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuButtonsCustomConverter.ReadJson(Newtonsoft.Json.JsonReader,System.Type,System.Object,Newtonsoft.Json.JsonSerializer)] Unknown reference link target &#39;T:Newtonsoft.Json.JsonSerializer&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.MenuInfo.Button] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.Author] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.ContentUrl] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.CoverUrl] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.Digest] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.ShowCover] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.SourceUrl] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.NewsInfo.Title] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase.Key] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase.MediaId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase.NewsInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase.SubButton] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase.Url] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Menu.SelfMenuButtonBase.Value] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.SubButton] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.ButtonInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.DelConditionalInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.TryMatchApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Menu.Dtos.TryMatchInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Message] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.DeleteInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.GetAllPrivateTemplateApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.GetIndustryResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.GetTemplateIdApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.GetTemplateIdInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.IndustryInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.IndustryInfo.FirstClass] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.IndustryInfo.SecondClass] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.SendAllApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendAllImageInput.ImageInfo.MediaIds] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendAllImageInput.ImageInfo.need_open_comment] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendAllImageInput.ImageInfo.only_fans_can_comment] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendImageInput.ImageInfo.MediaIds] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendImageInput.ImageInfo.need_open_comment] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendImageInput.ImageInfo.only_fans_can_comment] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.SendTemplateMessageApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendTemplateMessageApiResult.MessageId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.SendTemplateMessageInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Message.SendTemplateMessageInput.Miniprogram] Unknown reference link target &#39;T:TemplateMiniprogramSettings&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Message.SetIndustryInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Qrcode] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.Qrcode.QrcodeInput.#ctor(System.Int32,System.String,System.Int32)] Missing &lt;param name=&quot;expireSeconds&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.GetCategoryApiResult.Data] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.GetPubTemplateKeyWordsByIdApiResult.Data] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.GetPubTemplateTitleListApiResult.Data] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.GetTemplateListApiResult.Data] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:QI.Wx.Sdk.PublicAccount.Apis.Subscribe.Dtos.NewTmplDataItem.#ctor(System.String)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.Ticket.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.Ticket.Dtos.GetTicketApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchBlackListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchTaggingInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchTaggingInput.TagId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchUnBlackListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BatchUnTaggingInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BlackDataInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.BlackDataInfo.OpenId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagApiResult.Tag] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagInput.Tag] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagModel] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.CreateTagResultInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.DeleteTagInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.DeleteTagInfo.Id] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.DeleteTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.DeleteTagInput.Tag] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListApiResult.Count] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListApiResult.Data] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListApiResult.NextOpenId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListApiResult.Total] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetBlackListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetIdListApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetIdListInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetIdListInput.OpenId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetTagInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetTagInfo.Count] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetTagInfo.Id] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetTagInfo.Name] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetTagsApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetTagsApiResult.Tags] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult.Count] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult.Data] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult.NextOpenId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult.Total] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult.DataModel] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserApiResult.DataModel.OpenIds] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserByTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.GetUserByTagInput.TagId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateRemarkInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInfo] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInfo.Id] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInfo.Name] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [T:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInput] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UpdateTagInput.Tag] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.City] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Country] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.GroupId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Headimgurl] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Language] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Nickname] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.OpenId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Province] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.QrScene] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.QrSceneStr] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Remark] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Sex] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.Subscribe] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.SubscribeScene] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.SubscribeTime] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.TagIdList] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [P:QI.Wx.Sdk.PublicAccount.Apis.User.Dtos.UserInfoApiResult.UnionId] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [N:QI.Wx.Sdk.PublicAccount.Services.Dtos] Missing &lt;summary&gt; documentation
+Processed 2070 topic(s)
+665 warning(s)
+CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 8 of 15.
+CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 5 of 30.
+    Last step completed in 00:00:10.6177
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+Using LCID &#39;2052&#39;, code page &#39;936&#39;, encoding charset &#39;gb2312&#39;.
+Processing Help 1 files in E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1
+Processed 2070 HTML files.  Sorting keywords and generating See Also indices.
+Saving HTML Help 1 keyword index to E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\QI微信SDK.hhk
+Saving HTML Help 1 table of contents to E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\QI微信SDK.hhc
+    Last step completed in 00:00:00.2399
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\AlertCaution.png -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\AlertCaution.png
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\AlertNote.png -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\AlertNote.png
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\AlertSecurity.png -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\AlertSecurity.png
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\CodeExample.png -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\CodeExample.png
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\favicon.ico -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\favicon.ico
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privClass.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privClass.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privDelegate.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privDelegate.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privEnumeration.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privEnumeration.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privEvent.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privEvent.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privExtension.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privExtension.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privField.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privField.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privInterface.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privInterface.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privMethod.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privMethod.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privProperty.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privProperty.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\privStructure.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\privStructure.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protClass.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protClass.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protDelegate.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protDelegate.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protEnumeration.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protEnumeration.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protEvent.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protEvent.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protExtension.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protExtension.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protField.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protField.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protInterface.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protInterface.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protMethod.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protMethod.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protOperator.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protOperator.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protProperty.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protProperty.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\protStructure.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\protStructure.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubClass.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubClass.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubDelegate.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubDelegate.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubEnumeration.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubEnumeration.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubEvent.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubEvent.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubExtension.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubExtension.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubField.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubField.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubInterface.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubInterface.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubMethod.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubMethod.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubOperator.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubOperator.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubProperty.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubProperty.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\pubStructure.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\pubStructure.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\SectionCollapsed.png -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\SectionCollapsed.png
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\SectionExpanded.png -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\SectionExpanded.png
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\icons\Static.gif -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\icons\Static.gif
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\scripts\branding.js -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\scripts\branding.js
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-cs-CZ.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-cs-CZ.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-de-DE.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-de-DE.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-en-US.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-en-US.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-es-ES.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-es-ES.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-fr-FR.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-fr-FR.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-Help1.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-Help1.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-HelpViewer.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-HelpViewer.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-it-IT.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-it-IT.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-ja-JP.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-ja-JP.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-ko-KR.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-ko-KR.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-pl-PL.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-pl-PL.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-pt-BR.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-pt-BR.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-ru-RU.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-ru-RU.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-tr-TR.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-tr-TR.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-Website.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-Website.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-zh-CN.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding-zh-TW.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
+D:\EWSoftware\Sandcastle Help File Builder\Components\VS2013\styles\branding.css -&gt; E:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\styles\branding.css
+    Last step completed in 00:00:00.1069
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1 project file...
+    Last step completed in 00:00:00.0128
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1 file...
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - Build1xHelpFile.proj]
+
+  Microsoft HTML Help Compiler 4.74.8702
+  
+  
+  
+  Compiling e:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\QI微信SDK.chm
+  
+  
+  
+  
+  
+  Compile time: 0 minutes, 8 seconds
+  
+  2,072	Topics
+  
+  22,204	Local links
+  
+  0	Internet links
+  
+  0	Graphics
+  
+  
+  
+  
+  
+  Created e:\huadez\code\QI.WxSdk\Help\Working\Output\HtmlHelp1\QI微信SDK.chm, 2,249,387 bytes
+  
+  Compression decreased file by 11,749,930 bytes.
+  
+    Last step completed in 00:00:09.4861
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.5310
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 2024/3/18 13:43:59.  Total time: 00:00:26.7474
+
+</buildStep>
+</shfbBuild>
